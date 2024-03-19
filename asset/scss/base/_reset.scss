@@ -37,11 +37,6 @@ body {
   ::-webkit-scrollbar-track {
     background-color: transparent;
   }
-  @include tablet {
-    &.overflow {
-      overflow: hidden;
-    }
-  }
 }
 
 html,
@@ -138,20 +133,6 @@ img {
 
 textarea {
   resize: vertical;
-}
-
-input::placeholder,
-textarea::placeholder,
-input::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder,
-input::-moz-placeholder,
-textarea::-moz-placeholder,
-input:-ms-input-placeholder,
-textarea:-ms-input-placeholder,
-input::-ms-input-placeholder,
-textarea::-ms-input-placeholder {
-  opacity: 1;
-  color: #9ca3af;
 }
 
 a {
