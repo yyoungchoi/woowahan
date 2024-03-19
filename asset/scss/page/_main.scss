@@ -51,25 +51,25 @@ main {
         }
         &[data-direct="top"] {
           img {
-            height: calc(100% + 150px);
+            height: calc(100% + 20%);
           }
         }
         &[data-direct="bottom"] {
           align-items: flex-end;
           img {
-            height: calc(100% + 150px);
+            height: calc(100% + 20%);
           }
         }
         &[data-direct="left"] {
           justify-content: flex-start;
           img {
-            width: calc(100% + 150px);
+            width: calc(100% + 20%);
           }
         }
         &[data-direct="right"] {
           justify-content: flex-end;
           img {
-            width: calc(100% + 150px);
+            width: calc(100% + 20%);
           }
         }
       }

@@ -907,25 +907,25 @@ main {
   transition: transform 5s;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=top] img {
-  height: calc(100% + 150px);
+  height: 120%;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=bottom] {
   align-items: flex-end;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=bottom] img {
-  height: calc(100% + 150px);
+  height: 120%;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=left] {
   justify-content: flex-start;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=left] img {
-  width: calc(100% + 150px);
+  width: 120%;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=right] {
   justify-content: flex-end;
 }
 .sc-visual .swiper .swiper-slide .thumb-wrap[data-direct=right] img {
-  width: calc(100% + 150px);
+  width: 120%;
 }
 .sc-visual .swiper .swiper-slide .text-area {
   position: absolute;
