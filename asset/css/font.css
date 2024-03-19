@@ -1,0 +1,14 @@
+@font-face {
+  font-family: BM HANNA\11 yrs old;
+  src: url(../font/BMHANNA_11yrs_ttf.woff2);
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: BM HANNA Pro;
+  src: url(../font/BMHANNAPro.woff2);
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}

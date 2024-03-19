@@ -1,0 +1,22 @@
+.header .logo .link-logo,
+.header .gnb .arrow:after,
+.sc-search .search-area .ico-search,
+.team-area li .count:before,
+.button-wrap [class*="btn"],
+.ico-link-out,
+.footer .btn-relate:before {
+  background-image: url(../images/sp_pc.png);
+  background-size: 328px 205px;
+  background-repeat: no-repeat;
+}
+
+.hidden {
+  display: none;
+}
+
+input::placeholder {
+  color: #d0d0d0;
+  opacity: 1;
+  font-weight: bold;
+  font-family: "NanumSquare", "나눔스퀘어", "돋움", dotum, arial, sans-serif;
+}
